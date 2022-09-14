@@ -31,3 +31,16 @@ else if(blogId1){
         //    let blog1 =await blogModel.find(query)
         // 
         next()
+
+
+
+
+
+
+
+
+
+
+
+
+
